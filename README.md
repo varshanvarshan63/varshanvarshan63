@@ -2,12 +2,7 @@
 
 <!--
 **varshanvarshan63/varshanvarshan63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm Varshan,a engineer based in India.
 
-I design and build whatever I can imagine.
-
-If an idea comes into my head,chances are i'll build it.
-My main tech stack is python,html,css,react.
 
 Here are some ideas to get you started:
 
