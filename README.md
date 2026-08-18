@@ -23,38 +23,9 @@ I enjoy turning ideas into real-world applications using modern web technologies
 
 ---
 
-## Tech Stack
 
-### Programming Languages
 
-* Python
-* JavaScript
-* Java
-* HTML
-* CSS
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Tailwind CSS
-
-### Backend
-
-* Python
-* Flask
-* Django
-* Node.js
-* Express.js
-
-### Database
-
-* MySQL
-* SQLite
-* MongoDB
-* Firebase
 
 ### Tools & Platforms
 
@@ -64,123 +35,7 @@ I enjoy turning ideas into real-world applications using modern web technologies
 * Docker
 * REST APIs
 
-### AI / Machine Learning
 
-* Natural Language Processing
-* Machine Learning
-* Generative AI
-* AI APIs
-* Resume Analysis
-* Intelligent Interview Systems
-
----
-
-## Featured Projects
-
-### InterviewIQ
-
-**AI-Powered Smart Interview Preparation & Evaluation System**
-
-An intelligent interview preparation platform designed to help students and job seekers practice interviews, analyze performance, and improve their technical and communication skills.
-
-**Technologies:** React, Python/Node.js, AI APIs, Tailwind CSS
-
----
-
-### ResumeAI
-
-**AI-Powered Resume Analyzer**
-
-A resume analysis platform that evaluates resumes, identifies skills, provides ATS-oriented insights, and helps users improve their resumes.
-
-**Technologies:** Python, NLP, Machine Learning, HTML, CSS, JavaScript
-
----
-
-### NetRadar
-
-**Mobile Network Monitoring & Analysis Platform**
-
-A network monitoring project designed to collect and visualize authorized device/network information such as signal measurements, connectivity status, network information, and location data supplied by the device.
-
-**Technologies:** Python, HTML, CSS, JavaScript, SQLite
-
----
-
-### Offline Task Manager
-
-**Offline-First Productivity Application**
-
-A task management application designed to work even without an internet connection, with local data storage and synchronization-oriented functionality.
-
-**Technologies:** React, JavaScript, PWA, Tailwind CSS
-
----
-
-### DriveVerse X
-
-**Browser-Based Racing Simulator**
-
-A web-based racing experience focused on interactive gameplay, responsive design, and immersive visual presentation.
-
-**Technologies:** HTML, CSS, JavaScript
-
----
-
-## Data Structures & Algorithms
-
-I regularly practice programming problems to improve my problem-solving and algorithmic thinking.
-
-### Topics I'm Working On
-
-* Arrays
-* Strings
-* Linked Lists
-* Stacks & Queues
-* Binary Search
-* Trees
-* Graphs
-* Dynamic Programming
-* Recursion
-* Hashing
-* Sorting & Searching
-
-### Coding Practice
-
-* LeetCode
-* Problem Solving
-* Algorithm Optimization
-* Competitive Programming
-
----
-
-## Currently Learning
-
-```text
-Python
-   ↓
-Data Structures & Algorithms
-   ↓
-Full-Stack Development
-   ↓
-Artificial Intelligence
-   ↓
-Machine Learning
-   ↓
-Cloud & Deployment
-```
-
-I'm continuously improving my understanding of software engineering, system design, APIs, databases, AI, and scalable application development.
-
----
-
-## My Development Philosophy
-
-> Learn → Build → Break → Debug → Improve → Repeat
-
-I believe the best way to learn technology is by building real projects and solving real problems.
-
----
 
 ## GitHub Goals
 
@@ -200,7 +55,7 @@ I believe the best way to learn technology is by building real projects and solv
 
 **LinkedIn:** [My linkedin Profile](https://www.linkedin.com/in/varshan-k-2b6b11322)
 
-**Email:** [My Email id-(varshanvarshan63@gamil)]
+**Email:** [My Email-(varshanvarshan63@gamil)]
 
 ---
 
