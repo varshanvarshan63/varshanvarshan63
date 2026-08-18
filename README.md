@@ -55,7 +55,7 @@ I enjoy turning ideas into real-world applications using modern web technologies
 
 **LinkedIn:** [My linkedin Profile](https://www.linkedin.com/in/varshan-k-2b6b11322)
 
-**Email:** [My Email-(varshanvarshan63@gamil)]
+**Email:** [-(varshanvarshan63@gamil)]
 
 ---
 
